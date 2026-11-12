@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Etsy Crochet Pattern Intelligence mark</title>
+  <desc id="desc">A warm terracotta yarn ball with a looping crochet thread and hook.</desc>
+  <circle cx="64" cy="64" r="59" fill="#f1e8dc"/>
+  <circle cx="64" cy="64" r="49" fill="#fbfaf7" stroke="#dfcdb8" stroke-width="1.5"/>
+  <path d="M37 75c8-20 43-35 55-18 9 13-14 31-30 31-14 0-20-11-11-21 9-10 31-15 35-4 3 8-9 15-19 16-7 1-11-3-8-8 3-5 14-9 21-7" fill="none" stroke="#bd663d" stroke-width="6" stroke-linecap="round"/>
+  <path d="M32 54c9-16 35-23 51-14M38 91c15 7 34 4 46-6M48 39c13-6 30-4 41 5" fill="none" stroke="#d79067" stroke-width="2.3" stroke-linecap="round" opacity=".9"/>
+  <path d="M82 27c4 5 5 9 3 13-2 3-6 4-10 2" fill="none" stroke="#55443a" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="36" cy="45" r="2" fill="#c98461"/><circle cx="93" cy="81" r="2" fill="#c98461"/>
+</svg>
